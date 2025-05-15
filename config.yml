@@ -73,15 +73,15 @@ params:
             - name: Archive
               url: archive/
             - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+              url: https://en.wikipedia.org
 
     socialIcons:
         - name: CV
           url: cv.pdf
         - name: Email
-          url: mailto:igelfeld@regensburg.edu
+          url: mailto: lav.singh@imfm.si
         - name: Zoom
-          url: https://www.zoom.us/my/igelfeld
+          url: 
         - name: Location
           url: location/
         - name: Office Hours
@@ -91,13 +91,13 @@ params:
         - name: GitHub
           url: https://github.com/pmichaillat
         - name: Substack
-          url: https://pmichaillat.substack.com
+          url: 
         - name: YouTube
-          url: https://www.youtube.com/@pmichaillat
+          url: https://www.youtube.com
         - name: Twitter
-          url: https://x.com/pmichaillat
+          url: 
         - name: Bluesky
-          url: https://bsky.app/profile/pmichaillat.bsky.social
+          url: 
 
     assets:
         disableScrollBarStyle: true
@@ -105,7 +105,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
+      text: "Lav Kumar Singh"
       icon: favicon.ico
       iconHeight: 18
 
