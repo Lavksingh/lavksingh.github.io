@@ -29,10 +29,10 @@ menu:
           weight: 6
 
 params:
-    description: "This website hosts Moritz-Maria von Igelfeld's research papers, books, course materials, data, curriculum vitae, and contact information."
-    author: Moritz-Maria von Igelfeld
+    description: "This website hosts Lav Kumar Singh's research papers, books, course materials, data, curriculum vitae, and contact information."
+    author: Lav Kumar Singh
     # googleAnalyticsID: "G-XXXXX"
-    DateFormat: "January 2006"
+    DateFormat: "May 2025"
     defaultTheme: light
     hideFooter: false
     disableThemeToggle: true
