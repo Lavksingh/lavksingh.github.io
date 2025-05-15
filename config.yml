@@ -83,16 +83,14 @@ params:
           url: https://www.researchgate.net/profile/Lav-Kumar-Singh?ev=hdr_xprf
         - name: GitHub
           url: https://github.com/Lavksingh
-        - name: YouTube
-          url: https://www.youtube.com/@pmichaillat
-       
+             
     assets:
         disableScrollBarStyle: true
     cover:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
+      text: "Lav Kumar Singh"
       icon: favicon.ico
       iconHeight: 18
 
