@@ -97,7 +97,7 @@ params:
         - name: Twitter
           url: slksdflksj@ljs.com
         - name: Bluesky
-          url:lkjalkdjf@dlkjsaflk.com 
+          url: lkjalkdjf@dlkjsaflk.com 
 
     assets:
         disableScrollBarStyle: true
