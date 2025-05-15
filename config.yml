@@ -1,4 +1,4 @@
-baseURL: "https://lavksingh.github.io" 
+baseURL: "https://pascalmichaillat.org/hugo-website/" 
 title: Lav Kumar Singh
 theme: PaperMod
 
@@ -25,14 +25,14 @@ menu:
           url: data/
           weight: 4 
         - name: Blog
-          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+          url: https://en.wikipedia.org
           weight: 6
 
 params:
-    description: "This website hosts Lav Kumar Singh's research papers, books, course materials, data, curriculum vitae, and contact information."
-    author: Lav Kumar Singh
+    description: "This website hosts Moritz-Maria von Igelfeld's research papers, books, course materials, data, curriculum vitae, and contact information."
+    author: Moritz-Maria von Igelfeld
     # googleAnalyticsID: "G-XXXXX"
-    DateFormat: "May 2025"
+    DateFormat: "January 2006"
     defaultTheme: light
     hideFooter: false
     disableThemeToggle: true
@@ -55,7 +55,7 @@ params:
     profileMode:
           enabled: true
           title: Dr. Lav Kumar Singh
-          subtitle: "I am a postdoctoral researcher at the Institute of Mathematics, Physics and Mechanics (IMFM), Ljubljana, Slovenia. My primary field of research is Banach algebras and Operator algebras. I am interested in exploring Topological Center problem for the bidual of various Banach algebras originating from a locally compact group. I am also interested in studying various notion of amenability for Banach algebras. Research in these topics require tools from operator algebras, abstract harmonic analysis, geometry of Banach spaces etc. "
+          subtitle: "I am a postdoctoral researcher at the Institute of Mathematics, Physics and Mechanics (IMFM), Ljubljana, Slovenia. My primary field of research is Banach algebras and Operator algebras. I am interested in exploring Topological Center problem for the bidual of various Banach algebras originating from a locally compact group. I am also interested in studying various notion of amenability for Banach algebras. Research in these topics require tools from operator algebras, abstract harmonic analysis, geometry of Banach spaces etc."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
@@ -73,15 +73,15 @@ params:
             - name: Archive
               url: archive/
             - name: Blog
-              url: https://en.wikipedia.org
+              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
 
     socialIcons:
         - name: CV
           url: cv.pdf
         - name: Email
-          url: mailto:lav.singh@imfm.si
+          url: mailto:igelfeld@regensburg.edu
         - name: Zoom
-          url: xyz@zoom.com
+          url: https://www.zoom.us/my/igelfeld
         - name: Location
           url: location/
         - name: Office Hours
@@ -91,13 +91,13 @@ params:
         - name: GitHub
           url: https://github.com/pmichaillat
         - name: Substack
-          url: kdlkjfd@jlkjd.com
+          url: https://pmichaillat.substack.com
         - name: YouTube
-          url: https://www.youtube.com
+          url: https://www.youtube.com/@pmichaillat
         - name: Twitter
-          url: slksdflksj@ljs.com
+          url: https://x.com/pmichaillat
         - name: Bluesky
-          url: lkjalkdjf@dlkjsaflk.com 
+          url: https://bsky.app/profile/pmichaillat.bsky.social
 
     assets:
         disableScrollBarStyle: true
@@ -105,7 +105,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Lav Kumar Singh"
+      text: "Moritz-Maria von Igelfeld"
       icon: favicon.ico
       iconHeight: 18
 
