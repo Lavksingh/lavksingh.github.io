@@ -81,7 +81,7 @@ params:
         - name: Email
           url: mailto: lav.singh@imfm.si
         - name: Zoom
-          url: 
+          url: xyz@zoom.com
         - name: Location
           url: location/
         - name: Office Hours
@@ -91,13 +91,13 @@ params:
         - name: GitHub
           url: https://github.com/pmichaillat
         - name: Substack
-          url: 
+          url: kdlkjfd@jlkjd.com
         - name: YouTube
           url: https://www.youtube.com
         - name: Twitter
-          url: 
+          url: slksdflksj@ljs.com
         - name: Bluesky
-          url: 
+          url:lkjalkdjf@dlkjsaflk.com 
 
     assets:
         disableScrollBarStyle: true
